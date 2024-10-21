@@ -3,7 +3,7 @@
 ### Project Topic: Data Cleaning 
 
 ### Project Overview
-This data analysis project aims at generating insight into the data cleaning of 3 excel worksheets. By doing this, the result is a clean and 100% verified data which is very important and needed when analysing a dataset.
+This data analysis project aims at generating insight into the data cleaning of excel worksheets. By doing this, the result is a clean and 100% verified data which is very important and needed when analysing a dataset.
 
 ### Data Sources
 The primary source of data used here is Excel functions 2.xlsx which was gotten from trainer for class practice.
@@ -21,3 +21,4 @@ Power BI [Download here](https://www.microsoft.com)
 
   ### Visualization of cleaned data
   https://github.com/Temibeth/LITA_Data_Cleaning_Using_Power_BI/blob/main/Cleaned%20data%203.png
+https://github.com/Temibeth/LITA_Data_Cleaning_Using_Power_BI/blob/main/Cleaned%20data%204.png
