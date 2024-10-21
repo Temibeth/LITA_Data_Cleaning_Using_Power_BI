@@ -20,4 +20,4 @@ Power BI [Download here](https://www.microsoft.com)
 - Using Power Query Editor to clean data
 
   ### Visualization of cleaned data
-  
+  https://github.com/Temibeth/LITA_Data_Cleaning_Using_Power_BI/blob/main/Cleaned%20data%203.png
