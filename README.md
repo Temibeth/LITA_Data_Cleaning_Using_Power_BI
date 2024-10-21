@@ -11,3 +11,13 @@ The primary source of data used here is Excel functions 2.xlsx which was gotten 
 ### Tools Used: 
 Power BI [Download here](https://www.microsoft.com)
 - for data cleaning
+
+### Data Cleaning and Preparations
+- Importing data into Power BI
+- Identifying and removing duplicates
+- Renaming columns and formatting data
+- Removing unnecessary columns
+- Using Power Query Editor to clean data
+
+  ### Visualization of cleaned data
+  
